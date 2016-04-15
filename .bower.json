@@ -1,0 +1,19 @@
+{
+  "name": "dgtest",
+  "main": "dist/jquery.js",
+  "license": "MIT",
+  "ignore": [
+    "package.json"
+  ],
+  "keywords": [
+    "dgtest",
+    "javascript",
+    "browser",
+    "library"
+  ],
+  "_source": "nexus+http://ubuntuthinkpad:8081/repository/bower-all/jquery",
+  "_target": "^2.2.3",
+  "_release": "2.2.3",
+  "version": "2.2.3",
+  "_originalSource": "jquery"
+}

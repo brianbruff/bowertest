@@ -1,0 +1,14 @@
+{
+  "name": "dgtest",
+  "main": "dist/dgtest.js",
+  "license": "MIT",
+  "ignore": [
+    "package.json"
+  ],
+  "keywords": [
+    "dgtest",
+    "javascript",
+    "browser",
+    "library"
+  ]
+}
